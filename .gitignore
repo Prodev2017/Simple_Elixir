@@ -1,0 +1,8 @@
+noizu_simple_pool.iml
+.idea
+.iml
+/_build
+/cover
+/deps
+erl_crash.dump
+*.ez
